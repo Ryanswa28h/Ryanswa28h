@@ -1,7 +1,5 @@
 # Ryan Alvaro Emmyson
 
-> Linux • Neovim • Lua • Python
-
 I like building terminal apps, configuring Neovim, and experimenting with developer workflows.
 My most maintained repo is my neovim config, which is [botak.nvim](https://github.com/Ryanswa28h/botak.nvim).
 
@@ -10,13 +8,7 @@ My most maintained repo is my neovim config, which is [botak.nvim](https://githu
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-## Current Interests
-
-- Neovim
-- Terminal apps
-- Python
+i use arch btw
 
 ---
 
