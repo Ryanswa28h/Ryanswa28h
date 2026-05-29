@@ -15,9 +15,9 @@ i use arch btw
 ## Setup
 
 ```bash
-OS: Linux
-Editor: Neovim
-Shell: zsh
-Terminal: Ghostty
-WM/DE: KDE Plasma
+Operating System  : Arch Linux
+Text Editor       : Neovim
+Shell             : zsh
+Terminal Emulator : Ghostty
+WM/DE             : KDE Plasma
 ```
