@@ -1,7 +1,8 @@
 # Ryan Alvaro Emmyson
 
 I like building terminal apps, configuring Neovim, and experimenting with developer workflows.
-My most maintained repo is my neovim config, which is [botak.nvim](https://github.com/Ryanswa28h/botak.nvim).
+
+My Neovim config → [botak.nvim](https://github.com/Ryanswa28h/botak.nvim)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
