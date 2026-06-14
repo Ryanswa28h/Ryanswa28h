@@ -19,6 +19,6 @@ i use arch btw
 Operating System  : Arch Linux
 Text Editor       : Neovim
 Shell             : zsh
-Terminal Emulator : Ghostty
-WM/DE             : KDE Plasma
+Terminal Emulator : Kitty
+WM/DE             : Hyprland
 ```
