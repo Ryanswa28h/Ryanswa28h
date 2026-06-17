@@ -13,6 +13,14 @@ i use arch btw
 
 ---
 
+## My Repositories
+
+[My personal dotfiles](https://github.com/Ryanswa28h/dotfiles)
+[botak.nvim](https://github.com/Ryanswa28h/botak.nvim)
+[center-a-div agent skill](https://github.com/Ryanswa28h/center-a-div)
+
+---
+
 ## Setup
 
 ```bash
