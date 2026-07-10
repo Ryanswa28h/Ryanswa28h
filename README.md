@@ -7,7 +7,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./images/light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryanswa28h/Ryanswa28h/main/images/dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryanswa28h/Ryanswa28h/main/images/light.png">
   </picture>
 </p>
