@@ -1,3 +1,4 @@
+<h1 align="center">Ryan Alvaro Emmyson</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" alt="Linux">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
