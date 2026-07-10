@@ -5,9 +5,9 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="center">
+<a href="https://github.com/Ryanswa28h/Ryanswa28h">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryanswa28h/Ryanswa28h/main/images/dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryanswa28h/Ryanswa28h/main/images/light.png">
+    <img alt="Ryanswa28h's Profile" src="https://raw.githubusercontent.com/Ryanswa28h/Ryanswa28h/main/images/dark.png">
   </picture>
-</p>
+</a>
